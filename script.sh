@@ -14,7 +14,3 @@ systemctl enable docker
  
 # Docker 실행중인지 확인
 systemctl status docker
- 
-
-
-출처: https://link2me.tistory.com/2088 [소소한 일상 및 업무TIP 다루기]
